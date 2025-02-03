@@ -7,10 +7,8 @@ Hi! I'm a professional **Backend Developer** with a focus on building scalable a
 I have extensive experience in **Backend Development**, specializing in **Java**, **Spring Boot**, **Hibernate**, **Microservices**, and **RESTful API development**. My expertise also includes **System Design**, containerization tools like **Docker** and **Kubernetes**, message brokers like **Kafka**, and database management using **SQL**, **MySQL**, and various **storage solutions**. Additionally, I have worked on projects requiring **large scalability**, ensuring robust and high-performance backend architectures.
 
 ## Experience 👔
-I have 2 years of professional experience as an **Associate Software Engineer** at **Tech Mahindra Private Limited**, where I worked extensively on SAP systems, user roles, profiles, and security protocols.
-
-- **SAP Security Developer**: Worked on user role management and secure access mechanisms using SAP ABAP and SAP Java.
-- **SAP HANA Developer**: Developed security configurations and models tailored to SAP HANA environments.
+I have 2 years of professional experience as an **Software Engineer** at **Tech Mahindra Private Limited**, where I Developed and optimized security features for SAP systems using Java and object-oriented programming principles. Implemented user authentication and authorization mechanisms in SAP systems using backend logic. 
+Built scalable backend components for secure user role and profile management using Java.Implemented and enforced data security protocols, ensuring the confidentiality and integrity of sensitive information. Developed custom modules and integrations using Java to improve overall system security architecture.
 
 ## Open to Work 👥
 I am open to collaborating on **open-source projects**, where I can contribute my skills in backend development and gain more hands-on experience.
@@ -25,9 +23,11 @@ Check out my [LeetCode profile here](https://leetcode.com/u/Dinil-19/).
 
 ## Projects 🚀
 
+- **[E-Commerce Microservices Architecture](https://github.com/DinilJimrock/Jwt-Authentication-Token-Verification)**  
+  I developed a scalable E-Commerce application using a microservices architecture with services like Product Service and Order Service, ensuring modularity and fault tolerance. Even if a specific service, such as the Order Service, encounters a failure, other services continue functioning seamlessly. Data for each service is securely stored in a MySQL database. Additionally, the services are registered and managed using Spring Cloud Netflix Eureka for dynamic service discovery and load balancing. This project showcases the implementation of a resilient and maintainable microservices-based architecture for modern web applications.
 
-- **[User Authentication](https://github.com/DinilJimrock/UserAuthentication)**  
-  I developed a User Authentication system with a React frontend and a Java backend using Spring and REST APIs. The project also includes a MySQL database for securely managing user credentials and authentication processes.
+- **[User Authentication](https://github.com/DinilJimrock/Jwt-Authentication-Token-Verification)**  
+  I developed a JWT Authentication project using Java and Spring Boot. The project handles user authentication and authorization by generating tokens during sign-up and login processes. These tokens are validated to control access permissions, while user data is securely stored and managed in a MySQL database.
 
 - **[Boooking System](//https://github.com/DinilJimrock/Booking-Application)**  
   The Booking System project features a robust backend developed using Java, Spring, and REST APIs, ensuring seamless functionality. For data management, I utilized MySQL to handle all database operations efficiently.
@@ -55,7 +55,7 @@ Check out my [LeetCode profile here](https://leetcode.com/u/Dinil-19/).
   
 ## Contact Me 📧
 Feel free to reach out for any collaboration or freelancing opportunities!  
-Email: **diniljimrock22@gmail.com**
+Email: **diniljimrockravi@gmail.com**
 
 **"Striving for clean code, scalable systems, and endless learning."**
 
